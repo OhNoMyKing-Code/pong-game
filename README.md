@@ -1,8 +1,8 @@
-# 🎮 Pong Game  
+#  Pong Game  
 
 A simple remake of the classic **Pong game**, built entirely with **HTML, CSS, and JavaScript**.  
 
-## 🚀 Live Demo  
+##  Live Demo  
 👉 [Play on GitHub Pages](https://ohnomyking-code.github.io/pong-game/)  
 
 ## 🛠️ Technologies Used  
@@ -15,4 +15,4 @@ A simple remake of the classic **Pong game**, built entirely with **HTML, CSS, a
 - Prevent the ball from passing your paddle.  
 - Training yourself with Bot
 
-## 📂 Project Structure  
+## Thanks For Visit
